@@ -5,7 +5,10 @@
     box-sizing: border-box;
 }
 
-body {}
+body {
+font-family: "Inter", sans-serif;
+font-style: normal;
+}
 
 header {
     /* Стили для хедера */
